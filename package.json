@@ -1,0 +1,16 @@
+{
+  "name": "dsa-trees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "areCousins.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^19.8.1",
+    "nodemon": "^2.0.22"
+  }
+}
